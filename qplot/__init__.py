@@ -6,3 +6,4 @@ from qplot.plot.RemotePlot import Plot
 
 
 qcodes.DataSet = DataSet
+qcodes.data.data_set.DataSet = DataSet
